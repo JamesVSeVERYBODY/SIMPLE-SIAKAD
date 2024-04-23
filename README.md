@@ -1,2 +1,2 @@
-# Tugas-Proglan-FIX
-Tugas Proglan 1
+**Advanced Programming**
+"Simple Siakad" refers to a project or task related to creating or managing a simple Student Academic Administration System. This could involve designing, developing, or maintaining a basic digital platform aimed at assisting academic institutions in managing student-related information such as enrollment, grades, schedules, and other administrative tasks. The task may include aspects such as user interface design, database management, coding functionalities, testing, and implementation. The goal of the task could be to streamline administrative processes, improve efficiency, and enhance the overall academic experience for both students and faculty members.
